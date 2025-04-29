@@ -82,16 +82,16 @@
         <input type="text" id="dept" name="dept" value="M.Tech CSE Integrated" required>
 
         <label for="id">Student ID:</label>
-        <input type="text" id="id" name="id" value="sec21cj064" required>
+        <input type="text" id="id" name="id" value="sec25cj064" required>
 
         <label for="name">Name:</label>
-        <input type="text" id="name" name="name" value="Nivetha D" required>
+        <input type="text" id="name" name="name" value="PraNiv" required>
 
         <label for="cgpa">CGPA:</label>
-        <input type="number" id="cgpa" name="cgpa" step="0.1" value="6" required>
+        <input type="number" id="cgpa" name="cgpa" step="0.1" value="8" required>
 
         <label for="email">Email:</label>
-        <input type="email" id="email" name="email" value="sec21cj064@sairamtap.edu.in" required>
+        <input type="email" id="email" name="email" value="sec25cj064@sairamtap.edu.in" required>
 
         <input type="submit" value="Submit">
     </form>
